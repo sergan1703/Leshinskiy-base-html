@@ -1,0 +1,16 @@
+div {
+    width: 185px;
+    height: 51px;
+    background: black;
+    border-radius: 25px;
+}
+
+.but2:hover {
+    background-color: yellow;
+}
+
+
+.but3:active {
+    background-color: blueviolet;    
+}
+

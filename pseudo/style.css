@@ -1,0 +1,28 @@
+div {
+    width: 185px;
+    height: 51px;
+    background: linear-gradient(108.62deg, #5D5FEF 20.49%, #7879F1 46.52%, #A5A6F6 78.55%, #A5A6F6 78.55%);
+    border-radius: 25px;
+    position: relative;
+    top: 10px;
+}
+.but2:hover {
+    background: #A5A6F6;
+    
+}
+
+.but2:active {
+    background:#5D5FEF;
+    
+}
+
+
+.but1:hover {
+    background: #A5A6F6;
+    
+}
+
+.but1:active {
+    background:#5D5FEF;
+    
+}
